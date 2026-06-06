@@ -1,7 +1,7 @@
 # hadhiyamnoushad
 # Hi, I'm Hadhiya Mnoushad 👋
 
-BCA Computer Science student at Ansar Women's College, Thrissur.
+BCA student at Ansar Women's College, Thrissur.
 I build full-stack web apps and AI/ML models.
 
 ---
@@ -26,8 +26,8 @@ Built a sentiment analysis model and an image classification model using ML and 
 ## 📜 Certifications
 - Python Django — RISS Technologies
 - Artificial Intelligence Internship — AccelerateX / Novolo.ai
-- Artificial Intelligence Project
-- Young Internship Programme
+- Young Internship Programme idea submission
+- software testing course completion
 
 ---
 
